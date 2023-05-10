@@ -78,8 +78,8 @@ use Rector\MysqlToMysqli\Rector\FuncCall\MysqlPConnectToMysqliConnectRector;
 use Rector\MysqlToMysqli\Rector\FuncCall\MysqlQueryMysqlErrorWithLinkRector;
 
 return static function (RectorConfig $rectorConfig): void {
-	$rectorConfig->cacheDirectory('/home/nuketitanium/public_html/garbage/rector_cached_files');
-    $rectorConfig->containerCacheDirectory('/home/nuketitanium/public_html/garbage');
+	$rectorConfig->cacheDirectory('/home/inzanemindz/public_html/garbage/rector_cached_files');
+    $rectorConfig->containerCacheDirectory('/home/inzanemindz/public_html/garbage');
 	//$rectorConfig->disableParallel();
 	// A. run whole set
     //$rectorConfig->sets([
