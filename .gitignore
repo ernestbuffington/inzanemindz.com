@@ -2,8 +2,6 @@
 _notes
 /desktop.ini
 /config.php
-includes/log/*
-includes/cache/*
 pspbrwse.jbf
 *.pspimage
 uploads/*
@@ -11,5 +9,4 @@ uploads/*
 *.iso
 *.zip
 *.rar
-
 
