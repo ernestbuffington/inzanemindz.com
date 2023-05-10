@@ -1,0 +1,15 @@
+.idea
+_notes
+/desktop.ini
+/config.php
+includes/log/*
+includes/cache/*
+pspbrwse.jbf
+*.pspimage
+uploads/*
+/nconfig.php
+*.iso
+*.zip
+*.rar
+
+
